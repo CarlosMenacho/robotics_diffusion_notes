@@ -6,7 +6,7 @@
       {
         "id": "b9565c41872cb29c",
         "type": "tabs",
-        "dimension": 60.711111111111116,
+        "dimension": 42.355555555555554,
         "children": [
           {
             "id": "6c664aed33c06a58",
@@ -27,16 +27,20 @@
       {
         "id": "596fcf2a2f3b86fa",
         "type": "tabs",
-        "dimension": 39.28888888888889,
+        "dimension": 57.644444444444446,
         "children": [
           {
             "id": "909633320b3ca14e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "surveys/Systematic Literature Review on Diffusion Models for Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Systematic Literature Review on Diffusion Models for Planning"
             }
           }
         ]
@@ -204,6 +208,8 @@
   "active": "909633320b3ca14e",
   "lastOpenFiles": [
     "surveys/Diffusion Models for Robotic Manipulation A Comprehensive Survey.md",
+    "surveys/Systematic Literature Review on Diffusion Models for Planning.md",
+    "articles/Riemannian Flow Matching Policy for Robot Motion Learning.md",
     "README.md",
     "articles",
     "surveys"
